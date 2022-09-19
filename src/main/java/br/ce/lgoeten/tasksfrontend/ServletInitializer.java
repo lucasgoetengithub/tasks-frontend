@@ -1,4 +1,4 @@
-package br.ce.wcaquino.tasksfrontend;
+package br.ce.lgoeten.tasksfrontend;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

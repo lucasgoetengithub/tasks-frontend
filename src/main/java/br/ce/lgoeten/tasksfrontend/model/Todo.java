@@ -1,4 +1,4 @@
-package br.ce.wcaquino.tasksfrontend.model;
+package br.ce.lgoeten.tasksfrontend.model;
 
 import java.time.LocalDate;
 
